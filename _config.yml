@@ -109,4 +109,4 @@ plugins:
   - jekyll-admin
 
 jekyll-mentions:
-    base_url: /indigo
+    base_url: https://github.com
