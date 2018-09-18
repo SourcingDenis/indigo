@@ -1,9 +1,9 @@
 # main text of home
-name: John Doe
-bio: A Man who travels the world eating noodles
+name: Denis Dinkevich
+bio:  Someone who has become enlightened in the ways of the universe by accepting he know nothing about it. Overwhelmed with a desire to understand, and knowing that he never would, Denis became a Seeker.
 
 # twitter summary info
-description: A blog about technology and stuff related
+description: A blog about sourcing and stuff related
 
 # if it's an external image, update below for true
 # better with square images
@@ -14,9 +14,9 @@ picture: assets/images/profile.jpg
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: https://google.com/?q=my+resume
+resume-url: https://cakeresume.com/denisdinkevich
 
-url: https://koppl.in/indigo
+url: https://sourcingdenis.github.io/indigo
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -34,15 +34,15 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
+facebook: https://facebook.com/sourcingdenis
+twitter: https://twitter.com/sourcingdenis
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
-# linkedin: mylinkedin
+# linkedin: sourcingdenis
 # youtube: myyoutube
 # spotify: myspotify
-github: mygithub
+github: https://github.com/sourcingdenis
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
@@ -51,7 +51,7 @@ github: mygithub
 medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: myemail@gmail.com
+email: dinkevich.hr@gmail.com
 
 authors:
     johndoe:
@@ -109,4 +109,4 @@ plugins:
   - jekyll-admin
 
 jekyll-mentions:
-    base_url: https://github.com
+    base_url: /indigo
